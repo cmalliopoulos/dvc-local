@@ -1,0 +1,4 @@
+[core]
+    remote = dvcorigin
+['remote "dvcorigin"']
+    url = /tmp/dvcstore
